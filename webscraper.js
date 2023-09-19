@@ -24,7 +24,7 @@ fetch('https://www.nomoreransom.org/en/decryption-tools.html').then(function (re
        list
       )
 
-      fs.writeFile('./output.txt', JSON.stringify(list), err => {
+      fs.writeFile('./output.json', JSON.stringify(list), err => {
         if (err) {
           console.error(err);
         }
