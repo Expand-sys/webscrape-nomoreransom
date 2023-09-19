@@ -1,0 +1,1044 @@
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "777 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "AES_NI Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_aes_ni.exe",
+    "name": "AES_NI Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Agent.iih Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_alcatrazlocker.exe",
+    "name": "Alcatraz Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/alphadecrypter/dl/329/",
+    "name": "Alpha Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/download/alphadecrypter/dl/329/"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/amnesia",
+    "name": "Amnesia Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_amnesia.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/amnesia2",
+    "name": "Amnesia2  Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_amnesia2.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDAnnabelleDecryptTool.exe",
+    "name": "Annabelle Ransom",
+    "guideurl": "/uploads/Annabelle RANSOMWARE DECRYPTION TOOL.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/stupiddecryptor/dl/351/",
+    "name": "Annabelle Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/ransomware/decryptor/how-to-decrypt-the-stupid-ransomware-family-with-stupiddecrypter/"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/astralocker",
+    "name": "AstraLocker Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_atomsilo.exe",
+    "name": "AtomSilo Ransom",
+    "guideurl": "https://decoded.avast.io/threatintel/decryptor-for-atomsilo-and-lockfile-ransomware"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Aura Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/auroradecrypter/dl/379/",
+    "name": "Aurora Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/news/security/how-to-decrypt-the-aurora-ransomware-with-auroradecrypter/"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/aurora",
+    "name": "Aurora Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_aurora.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "AutoIt Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip",
+    "name": "AutoIt Ransom",
+    "guideurl": "/uploads/RannohDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "AutoLocky Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDAvaddonDecryptor.exe",
+    "name": "Avaddon Ransom",
+    "guideurl": "https://www.nomoreransom.org/uploads/Avaddon_documentation_new.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/avaddon",
+    "name": "Avaddon Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_avaddon.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/avest",
+    "name": "Avest Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_avest.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_btcware.exe",
+    "name": "BTCWare Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_babuk.exe",
+    "name": "Babuk Ransom",
+    "guideurl": "https://www.nomoreransom.org/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "BadBlock Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://blog.checkpoint.com/wp-content/uploads/2017/03/BarRaxDecryptor.zip",
+    "name": "BarRax Ransom",
+    "guideurl": "/uploads/barrax.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_bart.exe",
+    "name": "Bart Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDBartDecryptor.exe",
+    "name": "Bart Ransom"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_bianlian.exe",
+    "name": "Bianlian Ransom",
+    "guideurl": "/uploads/Bianlian_Decryptor.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_bigbobross.exe",
+    "name": "BigBobRoss Ransom",
+    "guideurl": "https://www.nomoreransom.org/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/bigbobross",
+    "name": "BigBobRoss Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_bigbobross.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/CoinVaultDecryptor.zip",
+    "name": "Bitcryptor Ransom",
+    "guideurl": "/uploads/CoinVault-decrypt-howto.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "CERBER V1 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://github.com/Truesec/TSDecryptors/releases/download/v1.0.0.0/Truesec.Decryptors-1.0.0.0.zip",
+    "name": "Chaos Ransom",
+    "guideurl": "/uploads/UserManualChaosDecryptor.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/checkmail7",
+    "name": "CheckMail7 Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_checkmail7.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/chernolocker",
+    "name": "Chernolocker Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_chernolocker.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Chimera Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "Chimera Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/CoinVaultDecryptor.zip",
+    "name": "Coinvault Ransom",
+    "guideurl": "/uploads/CoinVault-decrypt-howto.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/cry128",
+    "name": "Cry128 Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_cry128.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/cry9",
+    "name": "Cry9 Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_cry9.pdf"
+},
+{
+    "url": "https://github.com/eset/cry-decryptor/releases/download/v1.0/CryDecryptor.apk",
+    "name": "CryCryptor Ransom",
+    "guideurl": "/uploads/CryDecryptor Tool by ESET.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "CrySIS Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "CrySIS Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Cryakl Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip",
+    "name": "Crybola Ransom",
+    "guideurl": "/uploads/RannohDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/crypt32",
+    "name": "Crypt32 Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_crypt32.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_crypt888.exe",
+    "name": "Crypt888 Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/crypton",
+    "name": "CryptON Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_crypton.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip",
+    "name": "CryptXXX V1 Ransom",
+    "guideurl": "/uploads/RannohDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "CryptXXX V1 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip",
+    "name": "CryptXXX V2 Ransom",
+    "guideurl": "/uploads/RannohDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "CryptXXX V2 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip",
+    "name": "CryptXXX V3 Ransom",
+    "guideurl": "/uploads/RannohDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "CryptXXX V3 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "CryptXXX V4 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "CryptXXX V5 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://nomoreransom.cert.pl/static/cryptomix_decryptor.exe",
+    "name": "CryptoMix Ransom"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_cryptomix.exe",
+    "name": "CryptoMix Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Cryptokluchen Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/cyborg",
+    "name": "Cyborg Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_cyborg.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "DXXD Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/diavol",
+    "name": "Daivol ransomware Ransom",
+    "guideurl": "https://www.emsisoft.com/ransomware-decryption-tools/howtos/emsisoft_howto_diavol.pdf   "
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/damage",
+    "name": "Damage Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_damage.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDDarkSideDecryptor.exe",
+    "name": "Darkside Ransom",
+    "guideurl": "/uploads/DarkSide RANSOMWARE DECRYPTION TOOL.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Democry Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/stupiddecryptor/dl/351/",
+    "name": "Derialock Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/ransomware/decryptor/how-to-decrypt-the-stupid-ransomware-family-with-stupiddecrypter/"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Dharma Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/jigsaw",
+    "name": "DragonCyber Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_jigsaw.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/jigsaw",
+    "name": "ElvisPresley  Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_jigsaw.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_encryptile.exe",
+    "name": "EncrypTile Ransom",
+    "guideurl": "/uploads/EncrypTile.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/insanecrypt-desucrypt-decrypter/dl/369/",
+    "name": "Everbe 1.0 Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/ransomware/decryptor/how-to-decrypt-the-insanecrypt-or-everbe-1-family-of-ransomware/"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDFONIXDecryptor.exe",
+    "name": "FONIX Ransom",
+    "guideurl": "/uploads/FONIX RANSOMWARE DECRYPTION TOOL.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/fenixlocker",
+    "name": "FenixLocker Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_fenixlocker.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/fileslockerdecrypter/dl/378/",
+    "name": "FilesLocker v1 and v2 Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/ransomware/decryptor/how-to-decrypt-the-fileslocker-ransomware-with-fileslockerdecrypter/"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "FortuneCrypt Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip",
+    "name": "Fury Ransom",
+    "guideurl": "/uploads/RannohDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/galacticrypter",
+    "name": "GalactiCryper Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_galacticrypter.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDGandCrabDecryptTool.exe",
+    "name": "GandCrab (V1, V4 and V5 up to V5.2 versions) Ransom",
+    "guideurl": "/uploads/GANDCRAB RANSOMWARE DECRYPTION TOOL (002).pdf"
+},
+{
+    "url": "https://www.emsisoft.com/decrypter/download/getcrypt",
+    "name": "GetCrypt Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_getcrypt.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/globe",
+    "name": "Globe Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_globe.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "Globe/Purge Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/globe2",
+    "name": "Globe2 Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_globe2.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/globe3",
+    "name": "Globe3 Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_globe3.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/globeimposter",
+    "name": "GlobeImposter Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_globeimposter.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDGoGoogleDecryptor.exe",
+    "name": "GoGoogle Ransom",
+    "guideurl": "/uploads/StepsForDecryptionGoGoogle.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/gomasom",
+    "name": "Gomasom Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_gomasom.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/hkcrypt",
+    "name": "HKCrypt Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_hkcrypt.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/hakbit",
+    "name": "Hakbit Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_hakbit.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_hermeticransom.exe",
+    "name": "HermeticRansom Ransom",
+    "guideurl": "https://www.nomoreransom.org/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_hiddentear.exe",
+    "name": "HiddenTear Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/hidden-tear-decrypter/dl/327/",
+    "name": "HiddenTear Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/ransomware/decryptor/how-to-decrypt-hiddentear-ransomware-variants/"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/hildacrypt",
+    "name": "HildaCrypt Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_hildacrypt.pdf"
+},
+{
+    "url": "https://seed.kisa.or.kr/kisa/Board/133/detailView.do",
+    "name": "Hive (v1 to v4) Ransom",
+    "guideurl": "/uploads/Hive_Ransomware_Integrated_Decryption_Tool_User_Manual(ENG).pdf"
+},
+{
+    "url": "https://www.emsisoft.com/decrypter/ims00rry",
+    "name": "Iams00rry Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_ims00rry.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/insanecrypt-desucrypt-decrypter/dl/369/",
+    "name": "InsaneCrypt  Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/ransomware/decryptor/how-to-decrypt-the-insanecrypt-or-everbe-1-family-of-ransomware/"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/ransomwared",
+    "name": "Iwanttits Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_ransomwared.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/decrypter/download/jsworm-20",
+    "name": "JSWorm 2.0 Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_jsworm2.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/jsworm-40",
+    "name": "JSWorm 4.0 Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_jsworm4.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Jaff Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/javalocker",
+    "name": "JavaLocker Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_javalocker.pdf"
+},
+{
+    "url": "https://blog.checkpoint.com/wp-content/uploads/2016/07/JPS_release.zip",
+    "name": "Jigsaw Ransom",
+    "guideurl": "/uploads/JigsawDecryption_how-to-guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "Jigsaw Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://www.bleepingcomputer.com/download/stupiddecryptor/dl/351/",
+    "name": "Jigsaw Ransom",
+    "guideurl": "https://www.bleepingcomputer.com/ransomware/decryptor/how-to-decrypt-the-stupid-ransomware-family-with-stupiddecrypter/"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/jigsaw",
+    "name": "Jigsaw Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_jigsaw.pdf"
+},
+{
+    "url": "https://mdsassets.blob.core.windows.net/downloads/Judge-Decryptor.exe",
+    "name": "Judge Ransom",
+    "guideurl": "https://mdsassets.blob.core.windows.net/downloads/JudgeHowToGuide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/kokokrypt",
+    "name": "Kokokrypt Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_kokokrypt.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "LECHIFFRE Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_lambdalocker.exe",
+    "name": "LambdaLocker Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Lamer Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://labs.bitdefender.com/wp-content/plugins/download-monitor/download.php?id=Decrypter_0-1.3.zip",
+    "name": "Linux.Encoder.1 Ransom",
+    "guideurl": "/uploads/Linux-encoder-1.pdf"
+},
+{
+    "url": "https://labs.bitdefender.com/wp-content/plugins/download-monitor/download.php?id=encoder_3_decrypter.zip",
+    "name": "Linux.Encoder.3 Ransom",
+    "guideurl": "/uploads/Linux-encoder-3.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_atomsilo.exe",
+    "name": "LockFile Ransom",
+    "guideurl": "https://decoded.avast.io/threatintel/decryptor-for-atomsilo-and-lockfile-ransomware"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDLockerGogaDecryptTool.exe",
+    "name": "LockerGoga Ransom",
+    "guideurl": "/uploads/LockerGoga-Decrypt-Doc.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/decrypter/loocipher",
+    "name": "Loocipher Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_loocipher.pdf"
+},
+{
+    "url": "https://seed.kisa.or.kr/kisa/Board/113/detailView.do",
+    "name": "Loocipher Ransom",
+    "guideurl": "/uploads/LooCipher_Ransomware_Decryption_Tool_Instruction_Manual.pdf"
+},
+{
+    "url": "https://mdsassets.blob.core.windows.net/downloads/Lorenz-Decryptor.exe",
+    "name": "Lorenz Ransom",
+    "guideurl": "https://mdsassets.blob.core.windows.net/downloads/LorenzHowTo.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Lortok Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://esupport.trendmicro.com/media/13801530/Trend%20Micro%20Ransomware%20Decryptor_V1.0.1.zip",
+    "name": "MacRansom Ransom",
+    "guideurl": "/uploads/MacRansom.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_mafiaware666.exe",
+    "name": "MafiaWare666 Ransom",
+    "guideurl": "/uploads/UserManualAvastMafiaWare666Decryptor.pdf"
+},
+{
+    "url": "https://seed.kisa.or.kr/kisa/Board/56/detailView.do",
+    "name": "Magniber Ransom",
+    "guideurl": "/uploads/Magniber_decryption_tool_user_manual.pdf"
+},
+{
+    "url": "https://nomoreransom.cert.pl/static/mapo_decryptor.exe",
+    "name": "Mapo Ransom",
+    "guideurl": "https://www.cert.pl/en/news/single/free-decryption-tool-for-mapo-ransomware/"
+},
+{
+    "url": "https://nomoreransom.cert.pl/static/mapo_decryptor.exe",
+    "name": "Mapo Ransom",
+    "guideurl": "/uploads/mapo.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/marlboro",
+    "name": "Marlboro Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_marlboro.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip",
+    "name": "Marsjoke aka Polyglot Ransom",
+    "guideurl": "/uploads/RannohDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Maze / Sekhmet / Egregor Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/maze-sekhmet-egregor",
+    "name": "Maze / Sekhmet / Egregor Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_mazesekhmetegregor.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDMegaCortexDecryptTool.exe",
+    "name": "MegaCortex Ransom",
+    "guideurl": "/uploads/UserManualMegaCortexDecryptor.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/decrypter/download/megalocker",
+    "name": "MegaLocker Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_megalocker.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/mrcr",
+    "name": "Merry X-Mas Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_mrcr.pdf"
+},
+{
+    "url": "https://blog.checkpoint.com/wp-content/uploads/2017/03/MXM_Decryptor-3.7z",
+    "name": "Merry X-Mas Ransom"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "MirCop Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://download.f-secure.com/support/tools/Mira-decryptor/Mira%20Ransomware%20Decryptor.zip",
+    "name": "Mira Ransom",
+    "guideurl": "https://www.f-secure.com/en/web/labs_global/mira-decryptor"
+},
+{
+    "url": "https://nomoreransom.cert.pl/static/mole_decryptor.exe",
+    "name": "Mole Ransom"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/muhstik",
+    "name": "Muhstik Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_muhstik.pdf"
+},
+{
+    "url": "https://mdsassets.blob.core.windows.net/downloads/NemtyDecryptor.exe",
+    "name": "Nemty Ransom",
+    "guideurl": "https://mdsassets.blob.core.windows.net/downloads/NemtyHowToGuide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "Nemucod Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/nemucod",
+    "name": "Nemucod Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_nemucod.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/nemucodaes",
+    "name": "NemucodAES Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_nemucodaes.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/nmoreira",
+    "name": "Nmoreira Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_nmoreira.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/noway",
+    "name": "NoWay Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_noway.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_noobcrypt.exe",
+    "name": "Noobcrypt Ransom",
+    "guideurl": "/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://github.com/Truesec/TSDecryptors/releases/download/v1.0.0.0/Truesec.Decryptors-1.0.0.0.zip",
+    "name": "Onyx2 Ransom",
+    "guideurl": "/uploads/UserManualOnyx2Decryptor.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDOuroborosDecryptTool.exe",
+    "name": "Ouroboros Ransom",
+    "guideurl": "https://labs.bitdefender.com/2019/10/ouroboros-ransomware-decryption-tool/"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/ozozalocker",
+    "name": "Ozozalocker Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_ozozalocker.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/paradise",
+    "name": "Paradise Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_paradise.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/pewcrypt",
+    "name": "Pewcrypt Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_pewcrypt.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/philadelphia",
+    "name": "Philadelphia Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_philadelphia.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/planetary",
+    "name": "Planetary Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_planetary.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Pletor Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://github.com/prodaft/malware-ioc/raw/master/PlutoCrypt/plutocrypt_decryptor.exe",
+    "name": "Plutocrypt Ransom",
+    "guideurl": "/uploads/User Manual - PlutoCrypt_Decryptor.pdf"
+},
+{
+    "url": "https://www.elevenpaths.com/innovation-labs/technologies/recover-popcorn#eulaModal",
+    "name": "Popcorn Ransom",
+    "guideurl": "https://www.elevenpaths.com/innovation-labs/technologies/recover-popcorn"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/jigsaw",
+    "name": "Professeur Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_jigsaw.pdf"
+},
+{
+    "url": "https://github.com/cycraft-corp/Prometheus-Decryptor/releases/download/1.2/prometheus_decryptor.zip",
+    "name": "Prometheus Ransom",
+    "guideurl": "/uploads/Prometheus - How to Guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_prometheus.exe",
+    "name": "Prometheus Ransom",
+    "guideurl": "https://www.nomoreransom.org/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/stop-puma",
+    "name": "Puma Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_stoppuma.pdf"
+},
+{
+    "url": "https://github.com/Cisco-Talos/pylocky_decryptor",
+    "name": "Pylocky Ransom",
+    "guideurl": "https://blog.talosintelligence.com/2019/01/pylocky-unlocked-cisco-talos-releases.html"
+},
+{
+    "url": "https://www.cybermalveillance.gouv.fr/nos-articles/outil-de-dechiffrement-du-rancongiciel-ransomware-pylocky-versions-1-et-2/",
+    "name": "Pylocky Ransom",
+    "guideurl": "/uploads/Pylocky_Decryption_Tutorial.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/ragnarok",
+    "name": "RAGNAROK Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_ragnarok.pdf"
+},
+{
+    "url": "http://download.bitdefender.com/am/malware_removal/BDREvilDecryptor.exe",
+    "name": "REvil/Sodinokibi Ransom",
+    "guideurl": "/uploads/REvil_documentation.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Rakhni Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://download.bitdefender.com/am/malware_removal/BDRanHassanDecryptTool.exe",
+    "name": "RanHassan Ransom",
+    "guideurl": "/uploads/UserManualRanHassanDecryptor.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip",
+    "name": "Rannoh Ransom",
+    "guideurl": "/uploads/RannohDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/ransomwared",
+    "name": "Ransomwared Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_ransomwared.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/redrum",
+    "name": "RedRum Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_redrum.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Rotor Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "SNSLocker Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/ShadeDecryptor.zip?_ga=2.161492788.960080222.1588573244-1427278170.1570299536",
+    "name": "Shade Ransom",
+    "guideurl": "https://support.kaspersky.com/13059?_ga=2.27044596.858346383.1588243768-313061628.1558015910#block1"
+},
+{
+    "url": "https://www.mcafee.com/us/downloads/free-tools/shadedecrypt.aspx",
+    "name": "Shade Ransom"
+},
+{
+    "url": "https://seed.kisa.or.kr/kisa/Board/57/detailView.do",
+    "name": "SimpleLocker  Ransom",
+    "guideurl": "/uploads/SImplelocker_decryptiontool_user_manual.pdf"
+},
+{
+    "url": "https://download.eset.com/com/eset/tools/decryptors/simplocker/latest/eset-simplocker-decryptor.apk",
+    "name": "Simplocker Ransom",
+    "guideurl": "/uploads/ESET_Simplocker_Decryption tool.pdf"
+},
+{
+    "url": "https://github.com/Truesec/TSDecryptors/releases/download/v1.0.0.0/Truesec.Decryptors-1.0.0.0.zip",
+    "name": "Solidbit Ransom",
+    "guideurl": "/uploads/UserManualSolidbitDecryptor.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/spartcrypt",
+    "name": "SpartCrypt Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_spartcrypt.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "Stampado Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/stampado",
+    "name": "Stampado Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_stampado.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/synack",
+    "name": "SynAck Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_synack.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/syrk",
+    "name": "Syrk Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_syrk.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_targetcompany64.exe",
+    "name": "TargetCompany Ransom",
+    "guideurl": "https://www.nomoreransom.org/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_tarrak.exe",
+    "name": "Tarrak ransomware Ransom",
+    "guideurl": "https://www.nomoreransom.org/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://files.avast.com/files/decryptor/avast_decryptor_tarrak64.exe",
+    "name": "Tarrak ransomware Ransom",
+    "guideurl": "https://www.nomoreransom.org/uploads/Avast_how-to-guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "Teamxrat/Xpan Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "TeslaCrypt V1 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://github.com/Cisco-Talos/TeslaDecrypt",
+    "name": "TeslaCrypt V1 Ransom",
+    "guideurl": "https://talosintelligence.com/teslacrypt_tool"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "TeslaCrypt V2 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://github.com/Cisco-Talos/TeslaDecrypt",
+    "name": "TeslaCrypt V2 Ransom",
+    "guideurl": "https://talosintelligence.com/teslacrypt_tool"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "TeslaCrypt V3 Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.mcafee.com/us/downloads/free-tools/tesladecrypt.aspx",
+    "name": "TeslaCrypt V3 Ransom",
+    "guideurl": "http://www.mcafee.com/us/downloads/free-tools/tesladecrypt.aspx"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "TeslaCrypt V3 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://github.com/Cisco-Talos/TeslaDecrypt",
+    "name": "TeslaCrypt V3 Ransom",
+    "guideurl": "https://talosintelligence.com/teslacrypt_tool"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "TeslaCrypt V4 Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.mcafee.com/us/downloads/free-tools/tesladecrypt.aspx",
+    "name": "TeslaCrypt V4 Ransom",
+    "guideurl": "http://www.mcafee.com/us/downloads/free-tools/tesladecrypt.aspx"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "TeslaCrypt V4 Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://github.com/Cisco-Talos/TeslaDecrypt",
+    "name": "TeslaCrypt V4 Ransom",
+    "guideurl": "https://talosintelligence.com/teslacrypt_tool"
+},
+{
+    "url": "https://github.com/Cisco-Talos/ThanatosDecryptor",
+    "name": "Thanatos Ransom",
+    "guideurl": "https://talosintelligence.com/thanatos_decryptor"
+},
+{
+    "url": "https://mdsassets.blob.core.windows.net/downloads/ThunderX-Decryptor.exe",
+    "name": "ThunderX Ransom",
+    "guideurl": "/uploads/ThunderXHowToGuide.pdf"
+},
+{
+    "url": "https://download.eset.com/com/eset/tools/decryptors/trustezeb_a/latest/esettrustezebadecoder.exe",
+    "name": "Trustezeb Ransom",
+    "guideurl": "/uploads/kb7083_TrustezebA.PDF"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/turkstatik",
+    "name": "TurkStatic Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_turkstatik.pdf"
+},
+{
+    "url": "https://www.elevenpaths.com/downloads/vcrypt_decryptor.zip",
+    "name": "VCRYPTOR Ransom",
+    "guideurl": "/uploads/VCrypt_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/wannacryfake",
+    "name": "WannaCryFake Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_syrk.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/RU/WildfireDecryptor.zip",
+    "name": "Wildfire Ransom",
+    "guideurl": "/uploads/WildFire_Decryptor_how_to.pdf"
+},
+{
+    "url": "https://www.mcafee.com/us/downloads/free-tools/wildfiredecrypt.aspx",
+    "name": "Wildfire Ransom"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "XData Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "XORBAT Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://powerbox-na-file.trend.org/SFDC/DownloadFile_iv.php?jsonInfo=%7b%22Query%22%3a%22jn1XVHnvtwlVGuZ9XTrPudWOVgKHfE1fVf4mh9XXETPsT4jEX1DzaXiIio6niXlTxEHkXvbf%2fag68Dmuv%2fz0adD%2f3a4rmG1FhFP7q1cJhqLLyvO8VuBr65fUerKjrrzMQWzRT86MuUneIx7%2b%2bi8LufENTYCTK1vakiJw0ij34qulyJRwqAHlBbxuMm5Zy%2b5BmueD%2bfAyd%2bJceSs3oSW6q3VL9gl11LWas2jPQvUCZM9D9UDepgprqnQtF%2fU7D7%2bon%2b3OSp8OdBwED8qp9RgXb53hqzal2kXNlyntYczTaOo%3d%22%2c%22iv%22%3a%22db0d918f007fe97830d4cbc2e44b4cd2%22%7d",
+    "name": "XORIST Ransom",
+    "guideurl": "/uploads/TrendMicro_how-to_guide.pdf"
+},
+{
+    "url": "https://decrypter.emsisoft.com/download/xorist",
+    "name": "XORIST Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_xorist.pdf"
+},
+{
+    "url": "https://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip",
+    "name": "Yatron Ransom",
+    "guideurl": "/uploads/RakhniDecryptor_how-to_guide.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/decrypter/download/zq",
+    "name": "ZQ Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_zq.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/decrypter/zerofucks",
+    "name": "ZeroFucks Ransom",
+    "guideurl": "https://www.emsisoft.com/decrypter/howtos/emsisoft_howto_zerofucks.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/ziggy",
+    "name": "Ziggy Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_ziggy.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/zorab",
+    "name": "Zorab Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_zorab.pdf"
+},
+{
+    "url": "https://www.emsisoft.com/ransomware-decryption-tools/download/stop-djvu",
+    "name": "djvu Ransom",
+    "guideurl": "https://decrypter.emsisoft.com/howtos/emsisoft_howto_stopdjvu.pdf"
+}
